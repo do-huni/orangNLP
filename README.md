@@ -1,4 +1,6 @@
 <div align="center">
+  
+ 
 # **Kim Do Hun**
 
 👋 Hello! I'm undergraduate student majoring in LBnC(Language, Brain and Computer) & ELL(Eng Lang & Lit) at 🐯Korea Univ.
