@@ -2,7 +2,7 @@
 <div align="center">
 👋 Hello! I'm undergraduate student majoring in LBnC(Language, Brain and Computer) & ELL(Eng Lang & Lit) at 🐯Korea Univ.
 
-👋 My research fields are Natural Language Processing, Computational Linguistics and Syntax.
+👋 My research fields are Natural Language Processing and Linguistics.
 </div>
 
 # Skills
