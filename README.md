@@ -1,13 +1,11 @@
-<div align="center">
-  
 # **Kim Do Hun**
-
+<div align="center">
 👋 Hello! I'm undergraduate student majoring in LBnC(Language, Brain and Computer) & ELL(Eng Lang & Lit) at 🐯Korea Univ.
 
 👋 My research fields are Natural Language Processing, Computational Linguistics and Syntax.
-
+</div>
 # Skills
-
+<div align="center">
 **STACKS**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
