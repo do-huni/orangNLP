@@ -1,6 +1,6 @@
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=soft&text=%20do-huni%20&height=150&fontSize=80&desc=FE/BE/NLP&descAlignY=80&color=2C2F33&fontColor=F7F7F7)
+![header](https://capsule-render.vercel.app/api?type=soft&text=%20do-huni%20&height=150&fontSize=80&desc=BE_Developer&descAlignY=80&color=2C2F33&fontColor=F7F7F7)
   
 
 ## 📚stacks📚
@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/nest.js%23404d59.svg?style=for-the-badge&logo=nest&logoColor=%2361DAFB"/>
+
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
